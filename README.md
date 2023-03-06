@@ -1,2 +1,2 @@
 # hmis-repo01
-hmis primer repo
+Este es mi primer repositorio para la asignatura de HMIS en GitHub
